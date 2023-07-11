@@ -1,3 +1,2 @@
-# Sample Application for AWS DevOps Course
-
-#updated this file
+# aws-codepipeline
+This repo is for aws codepipeline practice 
